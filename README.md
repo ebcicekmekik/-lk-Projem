@@ -1,2 +1,2 @@
-# -lk-Projem
+# Ilk-Projem
 Git-Hub'daki ilk projem
