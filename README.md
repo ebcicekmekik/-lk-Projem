@@ -1,2 +1,2 @@
 # Ilk-Projem
-Git-Hub'daki ilk projem
+Spor eşyalarının satıldığı bir E-Ticaret Sitesidir.
